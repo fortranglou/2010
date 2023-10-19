@@ -37,7 +37,7 @@ function callAlter() {
                 action: function(){
                     $.confirm({
                         title: '',
-                        content: 'Thử chọn lại đi',
+                        content: 'Chọn lại đi',
                         type: 'red',
                         buttons: {
                             confirm: {
